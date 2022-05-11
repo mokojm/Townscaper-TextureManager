@@ -7,10 +7,10 @@ using TextureManager;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: MelonInfo(typeof(TextureManagerMain), "PlantsColor", "0.0.1", "MokoJ", "")]
+[assembly: MelonInfo(typeof(TextureManagerMain), "TextureManager", "0.0.1", "MokoJ", "")]
 [assembly: MelonGame("Raw Fury", "Townscaper")]
-[assembly: AssemblyTitle("PlantsColor")]
-[assembly: AssemblyDescription("plant color mod for Townscaper")]
+[assembly: AssemblyTitle("TextureManager")]
+[assembly: AssemblyDescription("texture manager mod for Townscaper")]
 [assembly: AssemblyCompany("MokoJ")]
 [assembly: AssemblyProduct("MokoJ")]
 

@@ -4,6 +4,8 @@ using ModUI;
 using System;
 using TMPro;
 using UnityEngine.UI;
+using System.Resources;
+using System.Reflection;
 
 namespace TextureManager
 {
@@ -15,12 +17,23 @@ namespace TextureManager
 
 		public static Slider refPlantSliderR;
 		public static Slider refPlantSliderG;
-		public static Slider refPlantSliderB;
+		public static Slider refPlantSliderB; 
 
 		public static bool isInitialized;
 
+		public static void GetTextureSettings()
+        {
+			bool doesAnySettingExists = myModSettings.GetValueString("Keys", "Textures", out string textureKeys);
+			if (!doesAnySettingExists)
+            {
+				InitializeSettings();
+            }
+        }
+
 		public static void Initialize(MelonMod thisMod)
 		{
+			//Search for existing setting if none is found, create the default setting
+
 
 			myModSettings = UIManager.Register(thisMod, new Color32(201, 245, 184, 255));
 

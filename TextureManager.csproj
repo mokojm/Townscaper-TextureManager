@@ -7,8 +7,8 @@
     <ProjectGuid>{8C179133-7071-45F3-9B0C-93C79B0EC49F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>PlantColor</RootNamespace>
-    <AssemblyName>PlantsColor</AssemblyName>
+    <RootNamespace>TextureManager</RootNamespace>
+    <AssemblyName>TextureManager</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -31,6 +31,9 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>TownShell.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Assembly-CSharp">
@@ -62,6 +65,7 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Json">
       <HintPath>C:\Program Files (x86)\Steam\steamapps\common\Townscaper\MelonLoader\Managed\System.Json.dll</HintPath>
       <Private>False</Private>
@@ -132,9 +136,26 @@
     <Compile Include="Harmony.cs" />
     <Compile Include="Input.cs" />
     <Compile Include="IL2CPP\Il2CppAssetBundle.cs" />
-    <Compile Include="PlantColor.cs" />
-    <Compile Include="PlantColorUI.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resource1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource1.resx</DependentUpon>
+    </Compile>
+    <Compile Include="TextureManager.cs" />
+    <Compile Include="TextureManagerUI.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resource1.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TownColor_Green Matrix.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="TownShell.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
