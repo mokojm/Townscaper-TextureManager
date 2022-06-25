@@ -9,7 +9,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>TextureManager</RootNamespace>
     <AssemblyName>TextureManager</AssemblyName>
-    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
     <TargetFrameworkProfile />
@@ -84,7 +84,7 @@
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Townscaper\MelonLoader\Managed\Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Steam\steamapps\common\Townscaper\MelonLoader\Managed\Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -104,7 +104,7 @@
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.ImageConversionModule">
-      <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Townscaper\MelonLoader\Managed\UnityEngine.ImageConversionModule.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Steam\steamapps\common\Townscaper\MelonLoader\Managed\UnityEngine.ImageConversionModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.InputLegacyModule, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -163,6 +163,50 @@
     <None Include="Resources\TownMaterial.png" />
     <None Include="Resources\TownColor.png" />
     <None Include="Resources\TownMaterialblackmatrix.png" />
+    <None Include="Resources\TownColor_Winter.png" />
+    <None Include="Resources\TownMaterial_Winter.png" />
+    <None Include="Resources\TownPalette_Winter.png" />
+    <None Include="Resources\TownPalette_DeepBlue.png" />
+    <None Include="Resources\TownPalette_DarkOctober.png" />
+    <None Include="Resources\TownColor_DarkOctober.png" />
+    <None Include="Resources\TownPalette_Palette_3.png" />
+    <None Include="Resources\TownColor_Bricks_fun.png" />
+    <None Include="Resources\TownColor_Modern_cobbled.png" />
+    <None Include="Resources\TownPalette_Palette_2.png" />
+    <None Include="Resources\TownPalette_Palette_1.png" />
+    <None Include="Resources\TownColor_Halloween.png" />
+    <None Include="Resources\TownPalette_Palette_4.png" />
+    <None Include="Resources\TownPalette_GhostTown.png" />
+    <None Include="Resources\TownColor_GhostTown.png" />
+    <None Include="Resources\TownPalette_GothicOrange.png" />
+    <None Include="Resources\TownColor_GothicOrange.png" />
+    <None Include="Resources\TownMaterial_Mediterranean.png" />
+    <None Include="Resources\TownPalette_Mediterranean.png" />
+    <None Include="Resources\TownColor_Mediterranean.png" />
+    <None Include="Resources\TownMaterial_Rusty_Metal.png" />
+    <None Include="Resources\TownColor_Rusty_Metal.png" />
+    <None Include="Resources\TownMaterial_Industrial.png" />
+    <None Include="Resources\TownPalette_Industrial.png" />
+    <None Include="Resources\TownColor_Industrial.png" />
+    <None Include="Resources\TownMaterial_Snow.png" />
+    <None Include="Resources\TownPalette_Snow.png" />
+    <None Include="Resources\TownColor_Snow.png" />
+    <None Include="Resources\TownColor_Salty.png" />
+    <None Include="Resources\TownMaterial_Salty.png" />
+    <None Include="Resources\TownPalette_Salty.png" />
+    <None Include="Resources\TownColor_Pastel.png" />
+    <None Include="Resources\TownMaterial_Pastel.png" />
+    <None Include="Resources\TownPalette_Pastel.png" />
+    <None Include="Resources\TownColor_Wireframe_Dark.png" />
+    <None Include="Resources\TownMaterial_Wireframe_Dark.png" />
+    <None Include="Resources\TownColor_Roofs_like_Borders.png" />
+    <None Include="Resources\TownMaterial_Roofs_like_Borders.png" />
+    <None Include="Resources\TownColor_Wireframe_Dark_2.png" />
+    <None Include="Resources\TownMaterial_Wireframe_Dark_2.png" />
+    <None Include="Resources\TownPalette_Port_Roc.png" />
+    <None Include="Resources\TownColor_GoldenAge.png" />
+    <None Include="Resources\TownMaterial_GoldenAge.png" />
+    <None Include="Resources\TownPalette_GoldenAge.png" />
     <Content Include="TownShell.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -118,19 +118,151 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="TownColor_Bricks_fun" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownColor_Bricks_fun.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownColor_DarkOctober" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownColor_DarkOctober.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="TownColor_default" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\TownColor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownColor_GhostTown" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownColor_GhostTown.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownColor_GoldenAge" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownColor_GoldenAge.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownColor_GothicOrange" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownColor_GothicOrange.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="TownColor_Green_Matrix" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\TownColor_Green Matrix.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="TownColor_Halloween" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownColor_Halloween.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownColor_Industrial" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownColor_Industrial.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownColor_Mediterranean" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownColor_Mediterranean.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownColor_Modern_cobbled" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownColor_Modern_cobbled.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownColor_Pastel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownColor_Pastel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownColor_Roofs_like_Borders" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownColor_Roofs_like_Borders.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownColor_Rusty_Metal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownColor_Rusty_Metal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownColor_Salty" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownColor_Salty.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownColor_Snow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownColor_Snow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownColor_Winter" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownColor_Winter.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownColor_Wireframe_Dark" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownColor_Wireframe_Dark.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownColor_Wireframe_Dark_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownColor_Wireframe_Dark_2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="TownMaterial_default" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\TownMaterial.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownMaterial_GoldenAge" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownMaterial_GoldenAge.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="TownMaterial_Green_Matrix" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\TownMaterialblackmatrix.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="TownMaterial_Industrial" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownMaterial_Industrial.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownMaterial_Mediterranean" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownMaterial_Mediterranean.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownMaterial_Pastel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownMaterial_Pastel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownMaterial_Roofs_like_Borders" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownMaterial_Roofs_like_Borders.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownMaterial_Rusty_Metal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownMaterial_Rusty_Metal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownMaterial_Salty" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownMaterial_Salty.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownMaterial_Snow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownMaterial_Snow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownMaterial_Winter" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownMaterial_Winter.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownMaterial_Wireframe_Dark" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownMaterial_Wireframe_Dark.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownMaterial_Wireframe_Dark_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownMaterial_Wireframe_Dark_2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownPalette_DarkOctober" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownPalette_DarkOctober.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownPalette_DeepBlue" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownPalette_DeepBlue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="TownPalette_default" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\TownPalette.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownPalette_GhostTown" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownPalette_GhostTown.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownPalette_GoldenAge" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownPalette_GoldenAge.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownPalette_GothicOrange" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownPalette_GothicOrange.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownPalette_Industrial" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownPalette_Industrial.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownPalette_Mediterranean" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownPalette_Mediterranean.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownPalette_Palette_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownPalette_Palette_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownPalette_Palette_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownPalette_Palette_2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownPalette_Palette_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownPalette_Palette_3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownPalette_Palette_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownPalette_Palette_4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownPalette_Pastel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownPalette_Pastel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownPalette_Port_Roc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownPalette_Port_Roc.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownPalette_Salty" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownPalette_Salty.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownPalette_Snow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownPalette_Snow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TownPalette_Winter" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TownPalette_Winter.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
