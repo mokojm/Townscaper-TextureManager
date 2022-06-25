@@ -52,12 +52,12 @@ Even so there are already a lot of Theme and Palette you might want to add your 
 1. Locate your texture directory (usually "C:\Users\<Your_User_Name>\AppData\LocalLow\Oskar Stalberg\Townscaper\Textures")
 2. Open "ModTextures" directory
 3. If you want to add new textures (TownColor and/or TownMaterial) :
-3.1. Create a new directory with the name you want your theme to have (ex : "Funky")
-3.2. Inside that directory place your textures files "TownColor.png" and "TownMaterial.png".
-3.3. If you have a "Palette" associated with your theme, follow step 4 but make sure the file name is the same with the directory created step 3.1
+	- Create a new directory with the name you want your theme to have (ex : "Funky")
+	- Inside that directory place your textures files "TownColor.png" and "TownMaterial.png".
+	- If you have a "Palette" associated with your theme, follow step 4 but make sure the file name is the same with the directory created step 3.1
 4. If you want to add a new Palette (TownPalette):
-4.1. Open "Palettes" directory
-4.2. Paste your "TownPalette" file inside and rename it (ex : "TownPalette.png" becomes "Funky.png")
+	- Open "Palettes" directory
+	- Paste your "TownPalette" file inside and rename it (ex : "TownPalette.png" becomes "Funky.png")
 5. If Townscaper was started, it needs to be restarted before enjoying your theme for the TextureManager mod. 
 
 ## Delete textures or palette
