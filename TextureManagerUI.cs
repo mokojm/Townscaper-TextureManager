@@ -2,10 +2,6 @@
 using UnityEngine;
 using ModUI;
 using System;
-using TMPro;
-using UnityEngine.UI;
-using System.Resources;
-using System.Reflection;
 
 namespace TextureManager
 {
