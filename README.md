@@ -33,7 +33,7 @@ https://github.com/LavaGang/MelonLoader/releases/latest/
 
 4. Extract all the files from "TextureManager.zip" into your games Mods folder.
 
-5. Download the utility mod "ModUI" (latest release) from: https://github.com/DigitalzombieTLD/TownscaperModUI/releases/latest/
+5. Download the utility mod "ModUI" (:warning: latest release published on 2022/06/27 :warning:) from: https://github.com/DigitalzombieTLD/TownscaperModUI/releases/latest/
 
 6. Extract the all files from the ModUI download into your games Mods folder
 
