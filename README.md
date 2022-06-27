@@ -1,5 +1,6 @@
 # Townscaper-TextureManager
- A Townscaper mod to change textures and palettes while in-game.
+ A Townscaper mod to change textures and palettes while in-game. 
+ YouTube showcase : https://youtu.be/cTf7hLrh2B0
  
  Thank you very much to @SCRACX for the UI, @Digitalzombie and all theme builders :)
  
