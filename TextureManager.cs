@@ -67,10 +67,10 @@ namespace TextureManager
 		public static bool isInitialized = false;
 
 		//To be deleted
-		public Placemaker.Ui.OrbitalCamera orbit;
-		public Unity.Mathematics.float2 rota = new Unity.Mathematics.float2(0.01f, 0);
-		public Vector3 pan = new Vector3(0.1f, 0, 0);
-		public float zoom = -0.03f;
+		/*public static Placemaker.Ui.OrbitalCamera orbit;
+		public static Unity.Mathematics.float2 rota = new Unity.Mathematics.float2(0.01f, 0);
+		public static Vector3 pan = new Vector3(0.1f, 0, 0);
+		public static float zoom = -0.03f;*/
 
 
 
@@ -638,7 +638,7 @@ namespace TextureManager
 				}
 			}
 
-			//Keyboard control
+			/*//Keyboard control
 			if (Input.GetKeyDown(KeyCode.Keypad6))
             {
 				TextureManagerUI.NextTheme();
@@ -676,7 +676,7 @@ namespace TextureManager
 			else if (Input.GetKey(KeyCode.Keypad9))
 			{
 				orbit.GamepadZoom(zoom);
-			}
+			}*/
 		}
 
 	}
